@@ -99,6 +99,85 @@
     ]
   },
   "brand": "X Y ZOME"
+},
+{
+  "id": 6,
+  "name": "Oversize",
+  "color": "Christmas Silver",
+  "price": 250,
+  "imageUrl": "https://i.postimg.cc/NfR4stFq/Screenshot-20230824-203951-Instagram.jpg",
+  "desc": {
+    "name": "Men's Half T-shirt Cotton Blend (Bright Silver) Casual Wear Striped T-shirts Combo Pack Of 2",
+    "fabric": "Cotton Blend",
+    "sleeve_length": "Short Sleeves",
+    "net_quantity": 2,
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  "brand": "X Y ZOME"
+},
+{
+  "id": 7,
+  "name": "Oversize",
+  "color": "Bovine",
+  "price": 250,
+  "imageUrl": "https://i.postimg.cc/DwgPGc1x/Screenshot-20230824-204012-Instagram.jpg",
+  "desc": {
+    "name": "Men's Half T-shirt Cotton Blend (Black And Gray) Casual Wear Striped T-shirts Combo Pack Of 2",
+    "fabric": "Cotton Blend",
+    "sleeve_length": "Short Sleeves",
+    "net_quantity": 2,
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  "brand": "X Y ZOME"
+},
+{
+  "id": 8,
+  "name": "Oversize",
+  "color": "Glowing Lantern and Yankees Blue",
+  "price": 250,
+  "imageUrl": "https://i.postimg.cc/fbRjf0KD/Screenshot-20230824-204031-Instagram.jpg",
+  "desc": {
+    "name": "Men's Half T-shirt Cotton Blend (Golden-Orange And Deep-Blue) Casual Wear Striped T-shirts Combo Pack Of 2",
+    "fabric": "Cotton Blend",
+    "sleeve_length": "Short Sleeves",
+    "net_quantity": 2,
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  "brand": "X Y ZOME"
+},
+{
+  "id": 9,
+  "name": "Oversize",
+  "color": "Grey Whisper and Gluon Grey",
+  "price": 250,
+  "imageUrl": "https://i.postimg.cc/wB45fTfJ/Screenshot-20230824-204054-Instagram.jpg",
+  "desc": {
+    "name": "Men's Half T-shirt Cotton Blend (Bright Silver and Black) Casual Wear Striped T-shirts Combo Pack Of 2",
+    "fabric": "Cotton Blend",
+    "sleeve_length": "Short Sleeves",
+    "net_quantity": 2,
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  "brand": "X Y ZOME"
 }
- 
 ]
